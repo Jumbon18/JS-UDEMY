@@ -1,0 +1,15 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "Es6-theory-course",
+  "main": "index.js",
+  "author": "Alex_pyvovarov",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.29.6"
+  }
+}

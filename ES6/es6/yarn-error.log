@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add webpack
+
+PATH: 
+  C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\Users\Олексей\AppData\Local\Microsoft\WindowsApps;C:\Users\Олексей\AppData\Local\Yarn\bin;C:\Users\Олексей\AppData\Local\GitHubDesktop\bin;C:\Users\Олексей\AppData\Roaming\npm
+
+Yarn version: 
+  1.9.4
+
+Node version: 
+  10.15.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: unable to verify the first certificate
+      at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+      at TLSSocket.emit (events.js:189:13)
+      at TLSSocket._finishInit (_tls_wrap.js:633:8)
+
+npm manifest: 
+  {
+    "name": "es6",
+    "version": "1.0.0",
+    "description": "Es6-theory-course",
+    "main": "index.js",
+    "author": "Alex_pyvovarov",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
